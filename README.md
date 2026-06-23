@@ -1,20 +1,12 @@
 # Codurrr
 
-`codurrr.in` · Rajasthan, India
+PHP & JavaScript Developer · Rajasthan, India · Shineing Digital LLP
 
 ---
 
-### who
+### about
 
-PHP and JavaScript developer. I make web apps, admin systems, dashboards, business tools — stuff that actually runs a business, not just something pretty to screenshot for Dribbble. Based in Rajasthan, somehow shipping anyway.
-
----
-
-### building right now
-
-- 🟢 School ERP — full modular PHP school management system (yes, from scratch)
-- Business management tools nobody asked me to build but someone had to
-- Admin dashboards that are actually usable
+I build web apps, admin systems and dashboards that actually run a business. Not the kind that looks good in a portfolio then breaks in production. PHP, MySQL, vanilla JS — no framework needed when you know what you are doing.
 
 ---
 
@@ -29,25 +21,14 @@ PHP and JavaScript developer. I make web apps, admin systems, dashboards, busine
 
 ---
 
-### something I actually built
-
-**SchoolERP**
-
-Modular PHP school management system. Students, teachers, academic records, staff ops, admin workflows. No framework, no npm install, no regrets. Just PHP doing what PHP was always supposed to do.
-
-`PHP` `MySQL` `Bootstrap` `PDO`
-
----
-
 ### how I work
 
-/ Keep it simple. Not lazy simple, actually simple.  
-/ If it works, it works. Ship it.  
-/ Perfection is a great way to never finish anything.
+`01` Simple on purpose, not because it was easier.
+
+`02` If it works, ship it. Polish is for furniture.
+
+`03` Perfection is just procrastination with better PR.
 
 ---
 
-### find me
-
-[codurrr.in](https://codurrr.in)  
-PHP and JavaScript Developer at Shineing Digital LLP
+[codurrr.in](https://codurrr.in)
