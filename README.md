@@ -1,67 +1,49 @@
-# Hey, I'm Codurrr 👋
+# Codurrr
 
-```js
-const codurrr = {
-  role: "JavaScript & PHP Developer",
-  company: "Shineing Digital LLP",
-  location: "Rajasthan, India",
-  focus: [
-    "JavaScript",
-    "PHP",
-    "MySQL",
-    "Admin Panels",
-    "Web Applications"
-  ]
-};
-```
+`codurrr.in` · Rajasthan, India
 
-Building web applications, dashboards, admin systems, and products that solve real business problems.
+---
 
-## Currently Working On
+PHP and JavaScript developer. I build web applications, admin systems, dashboards, and business tools — the kind of software that runs operations, not just looks good in Figma.
 
-* School ERP System
-* Business Management Solutions
-* Admin Dashboards
-* Frontend Architecture
-* JavaScript Development
+---
 
-## Tech Stack
+**Currently working on**
 
-### Frontend
+- 🟢 School ERP — modular PHP school management system
+- Business management solutions
+- Admin dashboards and internal tools
 
-* JavaScript
-* HTML5
-* CSS3
-* Bootstrap
-* Tailwind CSS
+---
 
-### Backend
+**Stack**
 
-* PHP
-* MySQL
+| Frontend | Backend | Tools |
+|---|---|---|
+| JavaScript | PHP | Git / GitHub |
+| HTML5 / CSS3 | MySQL | XAMPP |
+| Bootstrap | PDO / mysqli | VS Code |
+| GSAP | | Cursor |
 
-### Tools
+---
 
-* Git
-* GitHub
-* Cursor
-* VS Code
-* XAMPP
+**Featured**
 
-## Featured Project
+**[SchoolERP]()**
+A modular PHP school management platform — students, teachers, academic records, staff ops, and admin workflows all under one roof. No framework. No bloat.
 
-### SchoolERP
+`PHP` `MySQL` `Bootstrap` `PDO`
 
-A modular PHP-based school management platform for managing students, teachers, academic records, staff operations, and administrative workflows.
+---
 
-## Philosophy
+**Philosophy**
 
-> Keep it simple.
-> Build things that work.
-> Ship before perfection.
+— Keep it simple  
+— Build things that work  
+— Ship before perfection
 
-## Connect
+---
 
-🌐 https://codurrr.in
+**Links**
 
-💼 JavaScript & PHP Developer at Shineing Digital LLP
+[codurrr.in](https://codurrr.in) · Shineing Digital LLP
