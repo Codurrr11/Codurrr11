@@ -4,19 +4,21 @@
 
 ---
 
-PHP and JavaScript developer. I build web applications, admin systems, dashboards, and business tools — the kind of software that runs operations, not just looks good in Figma.
+### who
+
+PHP and JavaScript developer. I make web apps, admin systems, dashboards, business tools — stuff that actually runs a business, not just something pretty to screenshot for Dribbble. Based in Rajasthan, somehow shipping anyway.
 
 ---
 
-**Currently working on**
+### building right now
 
-- 🟢 School ERP — modular PHP school management system
-- Business management solutions
-- Admin dashboards and internal tools
+- 🟢 School ERP — full modular PHP school management system (yes, from scratch)
+- Business management tools nobody asked me to build but someone had to
+- Admin dashboards that are actually usable
 
 ---
 
-**Stack**
+### stack
 
 | Frontend | Backend | Tools |
 |---|---|---|
@@ -27,23 +29,25 @@ PHP and JavaScript developer. I build web applications, admin systems, dashboard
 
 ---
 
-**Featured**
+### something I actually built
 
-**[SchoolERP]()**
-A modular PHP school management platform — students, teachers, academic records, staff ops, and admin workflows all under one roof. No framework. No bloat.
+**SchoolERP**
+
+Modular PHP school management system. Students, teachers, academic records, staff ops, admin workflows. No framework, no npm install, no regrets. Just PHP doing what PHP was always supposed to do.
 
 `PHP` `MySQL` `Bootstrap` `PDO`
 
 ---
 
-**Philosophy**
+### how I work
 
-— Keep it simple  
-— Build things that work  
-— Ship before perfection
+/ Keep it simple. Not lazy simple, actually simple.  
+/ If it works, it works. Ship it.  
+/ Perfection is a great way to never finish anything.
 
 ---
 
-**Links**
+### find me
 
-[codurrr.in](https://codurrr.in) · Shineing Digital LLP
+[codurrr.in](https://codurrr.in)  
+PHP and JavaScript Developer at Shineing Digital LLP
