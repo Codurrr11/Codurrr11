@@ -1,24 +1,18 @@
 # Codurrr
 
-PHP & JavaScript developer from Rajasthan, India.  
-Working at **Shineing Digital LLP** — building stuff that actually runs businesses, not just looks good in screenshots.
+PHP and JavaScript developer from Rajasthan, India.
+Doing real work at Shineing Digital LLP — not the "look at my todo app" kind.
 
----
+**Stack**
 
-**Stack**  
-PHP · MySQL · JavaScript · HTML · CSS · Bootstrap · GSAP · PDO · Git
+PHP · MySQL · JavaScript · Bootstrap · GSAP · PDO · Git
 
----
+**What I build**
 
-**What I build**  
-School ERPs, stock management systems, microfinance tools, admin panels, CRMs — yeah, the boring-sounding stuff that keeps real operations running. Role-based access, clean data flows, proper session handling. No bloat, no unnecessary packages.
+ERPs, CRMs, admin panels, stock systems, school management platforms, microfinance tools. Yeah, the unglamorous stuff — but it handles real users and real money, so it has to actually work.
 
----
+No unnecessary packages. No framework just because Twitter said so. Vanilla PHP and JS, written properly, gets the job done for 90% of what the web needs. The other 10% can earn its complexity.
 
-**How I work**  
-Vanilla PHP and JS, handled properly. If a framework isn't earning its place, it's not coming in. XAMPP locally, Git for everything. Shh, no — jQuery is not on the list.
+**Portfolio**
 
----
-
-**Portfolio**  
 [codurrr.in](https://codurrr.in)
