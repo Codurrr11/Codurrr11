@@ -1,4 +1,4 @@
-# Batman · Codurrr
+#Codurrr
 
 PHP & JavaScript developer based in Rajasthan, India.  
 Building production systems at **Shineing Digital LLP** — ERPs, admin panels, CRMs, and multi-role dashboards.
