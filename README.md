@@ -5,7 +5,7 @@ Doing real work at Shineing Digital LLP — not the "look at my todo app" kind.
 
 **Stack**
 
-PHP · MySQL · JavaScript · Bootstrap · GSAP · PDO · Git
+PHP · MySQL · JavaScript · Tailwind  · Bootstrap · GSAP · PDO · Git 
 
 **What I build**
 
