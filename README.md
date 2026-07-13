@@ -1,94 +1,98 @@
-<div align="center">
+<svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&amp;family=DM+Mono:wght@400;500&amp;display=swap');
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,25:1B1F3B,50:0F3057,75:1B1F3B,100:0A0E27&height=260&section=header&text=CODURRR&fontSize=75&fontColor=64FFDA&animation=fadeIn&fontAlignY=36&desc=JS-FIRST%20DEV%20%C2%B7%20RAJASTHAN%2C%20INDIA&descAlignY=54&descSize=19&descColor=FFB454)
+      .bg { fill: #0A0E14; }
+      .grid line { stroke: #1B2233; stroke-width: 1; }
+      .name {
+        font-family: 'DM Serif Display', Georgia, serif;
+        font-size: 58px;
+        fill: #EAF4F4;
+        letter-spacing: 1px;
+      }
+      .accent { fill: #5EEAD4; }
+      .role {
+        font-family: 'DM Mono', 'Courier New', monospace;
+        font-size: 16px;
+        fill: #8B96A8;
+        letter-spacing: 0.5px;
+      }
+      .tag {
+        font-family: 'DM Mono', 'Courier New', monospace;
+        font-size: 11px;
+        fill: #E3A857;
+        letter-spacing: 3px;
+      }
+      .rule { stroke: #1B2233; stroke-width: 1; }
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&width=680&lines=%3E+booting+codurrr.dev...;%3E+loading+stack%3A+react+%2B+js+%2B+php;%3E+building+systems+that+handle+real+money;%3E+no+framework+just+because+twitter+said+so;%3E+status%3A+shipping" alt="Typing SVG" />
+      .fade-in {
+        opacity: 0;
+        animation: fadeIn 1.1s ease-out forwards;
+      }
+      .fade-in.d2 { animation-delay: 0.25s; }
+      .fade-in.d3 { animation-delay: 0.5s; }
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(6px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
 
-<br/>
+      .cursor {
+        fill: #5EEAD4;
+        animation: blink 1.1s steps(1) infinite;
+      }
+      @keyframes blink {
+        0%, 45% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
 
-![Views](https://komarev.com/ghpvc/?username=codurrr&label=PROFILE%20VIEWS&color=1B1F3B&style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-SHIPPING-64FFDA?style=for-the-badge&labelColor=0A0E27)
-![Location](https://img.shields.io/badge/BASE-RAJASTHAN%2C%20IN-FFB454?style=for-the-badge&labelColor=0A0E27)
+      .scan {
+        fill: url(#scanGrad);
+        animation: sweep 5s ease-in-out infinite;
+      }
+      @keyframes sweep {
+        0%   { transform: translateX(-120px); opacity: 0; }
+        10%  { opacity: 0.5; }
+        50%  { opacity: 0.5; }
+        90%  { opacity: 0; }
+        100% { transform: translateX(1000px); opacity: 0; }
+      }
+    </style>
 
-</div>
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5EEAD4" stop-opacity="0" />
+      <stop offset="50%" stop-color="#5EEAD4" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#5EEAD4" stop-opacity="0" />
+    </linearGradient>
+  </defs>
 
-<br/>
+  <rect class="bg" width="1000" height="200" />
 
-```bash
-$ whoami
-> full-stack dev @ Shineing Digital LLP
-> not the "look at my todo app" kind — the kind that touches real users, real money
-> 2 years deep, still allergic to bloated dependencies
-```
+  <!-- faint structural grid, restrained -->
+  <g class="grid" opacity="0.5">
+    <line x1="0" y1="40" x2="1000" y2="40" />
+    <line x1="0" y1="160" x2="1000" y2="160" />
+    <line x1="60" y1="0" x2="60" y2="200" />
+  </g>
 
-<br/>
+  <!-- scanning light sweep -->
+  <rect class="scan" x="0" y="0" width="90" height="200" />
 
-![Section](https://capsule-render.vercel.app/api?type=rounded&color=0:0A0E27,100:0F3057&height=3&width=1000)
+  <!-- mark -->
+  <g class="fade-in">
+    <rect x="60" y="66" width="6" height="46" class="accent" />
+  </g>
 
-## `01.` STACK
+  <!-- wordmark -->
+  <text x="86" y="105" class="name fade-in">Codurrr</text>
 
-<br/>
+  <!-- role line -->
+  <g class="fade-in d2">
+    <text x="88" y="134" class="role">full-stack developer — javascript-first</text>
+    <rect x="470" y="120" width="9" height="16" class="cursor" />
+  </g>
 
-**core — javascript-first**
+  <line x1="60" y1="160" x2="940" y2="160" class="rule fade-in d3" />
 
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0E27?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0A0E27?style=for-the-badge&logo=react&logoColor=64FFDA)
-![GSAP](https://img.shields.io/badge/GSAP-0A0E27?style=for-the-badge&logo=greensock&logoColor=88CE02)
-![Tailwind](https://img.shields.io/badge/Tailwind-0A0E27?style=for-the-badge&logo=tailwindcss&logoColor=64FFDA)
-
-**backend + infra**
-
-![PHP](https://img.shields.io/badge/PHP-0A0E27?style=for-the-badge&logo=php&logoColor=8892BF)
-![MySQL](https://img.shields.io/badge/MySQL-0A0E27?style=for-the-badge&logo=mysql&logoColor=FFB454)
-![PDO](https://img.shields.io/badge/PDO-0A0E27?style=for-the-badge&logo=php&logoColor=8892BF)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0A0E27?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![Git](https://img.shields.io/badge/Git-0A0E27?style=for-the-badge&logo=git&logoColor=F05032)
-
-</div>
-
-<br/>
-
-> JS runs the frontend and half my thought process. PHP just pays rent on the backend.
-
-<br/>
-
-![Section](https://capsule-render.vercel.app/api?type=rounded&color=0:0F3057,100:1B1F3B&height=3&width=1000)
-
-## `02.` WHAT I BUILD
-
-<br/>
-
-| System | Deal |
-|---|---|
-| 🏫 **School ERP** | full-stack platforms, real students, real fees |
-| 💼 **CRM / Admin Panels** | dashboards people actually open every day |
-| 📦 **Stock Management** | role-based access, inventory that doesn't lie |
-| 🏦 **Microfinance Tools** | strict EMI logic, live payment allocation |
-| 🌐 **Client Sites** | fast, handcrafted, zero bloat |
-
-<br/>
-
-**philosophy:**
-no unnecessary packages · no npm rabbit holes · no framework because it trended — vanilla + React where it actually earns its place, code that ships and holds up
-
-<br/>
-
-![Section](https://capsule-render.vercel.app/api?type=rounded&color=0:1B1F3B,100:0A0E27&height=3&width=1000)
-
-## `03.` PORTFOLIO
-
-<br/>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/codurrr.in-VISIT_SITE-0F3057?style=for-the-badge&logo=vercel&logoColor=64FFDA)](https://codurrr.in)
-
-</div>
-
-<br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,25:1B1F3B,50:0F3057,75:1B1F3B,100:0A0E27&height=150&section=footer)
-
-</div>
+  <text x="940" y="182" text-anchor="end" class="tag fade-in d3">RAJASTHAN · INDIA</text>
+</svg>
