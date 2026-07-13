@@ -1,23 +1,60 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=DM+Mono&size=32&duration=2600&pause=1200&color=5EEAD4&center=true&vCenter=true&width=560&height=70&lines=Codurrr;full-stack+developer;javascript-first" alt="Codurrr" />
+![top](https://capsule-render.vercel.app/api?type=rect&color=0:0A0E14,50:5EEAD4,100:0A0E14&height=3&width=1000&animation=fadeIn)
 
-<sub>RAJASTHAN · INDIA</sub>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=42&duration=3200&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&height=70&lines=CODURRR" alt="Codurrr" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=2400&pause=800&color=8B96A8&center=true&vCenter=true&width=520&height=30&lines=full-stack+developer+%C2%B7+javascript-first;rajasthan%2C+india+%C2%B7+shineing+digital+llp" alt="tagline" />
 
 </div>
 
 <br>
 
-Two years into building things that touch real users and real money — not portfolio filler. Currently at **Shineing Digital LLP**, shipping ERPs, CRMs, and admin systems for people who actually log in every day.
+```
+$ whoami --verbose
+> role       full-stack dev, 2 yrs deep
+> employer   shineing digital llp
+> builds     erp · crm · admin panels · stock systems · microfinance tools
+> not        another "look at my todo app" account
+> status     online, shipping
+```
+
+<br>
+
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:0A0E14,50:1B2233,100:0A0E14&height=2&width=1000)
+
+<br>
+
+<div align="center">
+
+<sub>STACK — JAVASCRIPT FIRST</sub>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=js,react,gsap,tailwind,php,mysql,bootstrap,git&theme=dark" alt="stack" />
+
+</div>
+
+<br>
 
 ```
-stack
-├─ js     react · gsap · tailwind
-├─ php    mysql · pdo · bootstrap
-└─ tools  git
+js    react · gsap · tailwind   — interface, motion, most of the thinking
+php   mysql · pdo · bootstrap   — backend, holds the weight
+git   version control, always
 ```
 
-JavaScript runs the interface and most of the thinking. PHP holds the backend together. Nothing gets added because it trended — vanilla and React are picked per problem, not by default.
+Nothing gets added because it trended. Vanilla and React are picked per problem, not by default. The other 10% of the web that actually needs complexity gets it — the rest doesn't.
+
+<br>
+
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:0A0E14,50:1B2233,100:0A0E14&height=2&width=1000)
+
+<br>
+
+<div align="center"><sub>WHAT I BUILD</sub></div>
+<br>
 
 | | |
 |---|---|
@@ -27,6 +64,18 @@ JavaScript runs the interface and most of the thinking. PHP holds the backend to
 | `microfinance` | strict EMI logic, live payment allocation |
 | `client sites` | fast, handcrafted, no dead weight |
 
-—
+<br>
 
-**[codurrr.in](https://codurrr.in)**
+![div](https://capsule-render.vercel.app/api?type=rect&color=0:0A0E14,50:1B2233,100:0A0E14&height=2&width=1000)
+
+<div align="center">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=E3A857&center=true&vCenter=true&width=460&height=30&lines=%E2%86%92+codurrr.in" alt="portfolio" />
+
+<br>
+
+![bottom](https://capsule-render.vercel.app/api?type=rect&color=0:0A0E14,50:5EEAD4,100:0A0E14&height=3&width=1000&animation=fadeIn)
+
+</div>
