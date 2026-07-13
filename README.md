@@ -33,7 +33,7 @@ $ whoami --verbose
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=js,react,gsap,tailwind,php,mysql,bootstrap,git&theme=dark" alt="stack" />
+<img src="https://skillicons.dev/icons?i=js,react,tailwind,php,mysql,bootstrap,git&theme=dark" alt="stack" />
 
 </div>
 
@@ -56,13 +56,14 @@ Nothing gets added because it trended. Vanilla and React are picked per problem,
 <div align="center"><sub>WHAT I BUILD</sub></div>
 <br>
 
-| | |
-|---|---|
-| `school erp` | full platforms — students, fees, staff, all of it |
-| `crm / admin` | dashboards built for daily use, not demos |
-| `stock systems` | role-based access, inventory that doesn't drift |
-| `microfinance` | strict EMI logic, live payment allocation |
-| `client sites` | fast, handcrafted, no dead weight |
+```
+build
+├─ school erp      full platforms — students, fees, staff, all of it
+├─ crm / admin     dashboards built for daily use, not demos
+├─ stock systems   role-based access, inventory that doesn't drift
+├─ microfinance    strict EMI logic, live payment allocation
+└─ client sites    fast, handcrafted, no dead weight
+```
 
 <br>
 
