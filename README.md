@@ -15,7 +15,7 @@
 ```
 $ whoami --verbose
 > role       full-stack dev, 2 yrs deep
-> employer   shineing digital llp
+> employee   shineing digital llp
 > builds     erp · crm · admin panels · stock systems · microfinance tools
 > not        another "look at my todo app" account
 > status     online, shipping
