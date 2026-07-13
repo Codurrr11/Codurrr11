@@ -15,7 +15,7 @@
 ```
 $ whoami --verbose
 > role       full-stack dev, 2 yrs deep
-> employee   shineing digital llp
+> employer   shineing digital llp
 > builds     erp · crm · admin panels · stock systems · microfinance tools
 > not        another "look at my todo app" account
 > status     online, shipping
@@ -73,7 +73,7 @@ build
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=E3A857&center=true&vCenter=true&width=460&height=30&lines=%E2%86%92+codurrr.in" alt="portfolio" />
+<a href="https://codurrr.in"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=E3A857&center=true&vCenter=true&width=460&height=30&lines=%E2%86%92+codurrr.in" alt="portfolio" /></a>
 
 <br>
 
