@@ -15,7 +15,6 @@
 ```
 $ whoami --verbose
 > role       full-stack dev, 2 yrs deep
-> employer   shineing digital llp
 > builds     erp · crm · admin panels · stock systems · microfinance tools
 > not        another "look at my todo app" account
 > status     online, shipping
@@ -53,19 +52,6 @@ Nothing gets added because it trended. Vanilla and React are picked per problem,
 
 <br>
 
-<div align="center"><sub>WHAT I BUILD</sub></div>
-<br>
-
-```
-build
-├─ school erp      full platforms — students, fees, staff, all of it
-├─ crm / admin     dashboards built for daily use, not demos
-├─ stock systems   role-based access, inventory that doesn't drift
-├─ microfinance    strict EMI logic, live payment allocation
-└─ client sites    fast, handcrafted, no dead weight
-```
-
-<br>
 
 ![div](https://capsule-render.vercel.app/api?type=rect&color=0:0A0E14,50:1B2233,100:0A0E14&height=2&width=1000)
 
