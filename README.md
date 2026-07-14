@@ -24,12 +24,6 @@ $ whoami --verbose
 
 ![div](https://capsule-render.vercel.app/api?type=rect&color=0:0A0E14,50:1B2233,100:0A0E14&height=2&width=1000)
 
-<br>
-
-<div align="center">
-
-<sub>STACK — JAVASCRIPT FIRST</sub>
-
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=js,react,tailwind,php,mysql,bootstrap,git&theme=dark" alt="stack" />
