@@ -1,41 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E14,50:14B8A6,100:0A0E14&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080A0D,50:16A34A,100:080A0D&height=3&width=1000" width="100%">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=36&duration=3000&pause=1200&color=5EEAD4&center=true&vCenter=true&width=600&height=60&lines=CODURRR" />
+<img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=38&duration=2800&pause=1200&color=39FF88&center=true&vCenter=true&width=600&height=65&lines=CODURRR" />
 
 <p>
-  <sub>web · systems · interfaces · experiments</sub>
+<code>WEB DEVELOPER · DIGITAL BUILDER · INTERNET USER</code>
 </p>
 
 <br>
 
 ```text
-[ design ] ──→ [ build ] ──→ [ refine ] ──→ [ ship ]
+╔══════════════════════════════════════════════════════╗
+║  C:\CODURRR>                                         ║
+║                                                      ║
+║  [ DESIGN ] ──→ [ BUILD ] ──→ [ REFINE ] ──→ [ SHIP ]║
+║                                                      ║
+║  C:\> building cool stuff_                           ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=js,react,tailwind,php,mysql,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,react,tailwind,php,mysql,bootstrap,git&theme=dark">
 
 <br><br>
 
-> Building clean digital products with a focus on **function, detail, and experience.**
+```text
+┌──────────────────────────────────────────┐
+│  STACK                                   │
+│                                          │
+│  javascript  /  react  /  tailwind      │
+│  php          /  mysql   /  bootstrap    │
+│  git          /  github                  │
+└──────────────────────────────────────────┘
+```
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=codurrr&show_icons=true&hide_border=true&bg_color=0A0E14&title_color=5EEAD4&text_color=8B96A8&icon_color=5EEAD4&rank_icon=github" height="160"/>
+<sub>
+<code>© 199X–∞ CODURRR · BEST VIEWED WITH A FAST CONNECTION</code>
+</sub>
 
 <br><br>
 
 <a href="https://codurrr.in">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=2800&pause=1000&color=8B96A8&center=true&vCenter=true&width=400&height=30&lines=%E2%86%92+codurrr.in" />
+<img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&size=16&duration=2600&pause=900&color=39FF88&center=true&vCenter=true&width=420&height=35&lines=%5B+ENTER+codurrr.in+%5D" />
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E14,50:14B8A6,100:0A0E14&height=2&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080A0D,50:16A34A,100:080A0D&height=3&width=1000" width="100%">
 
 </div>
