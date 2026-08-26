@@ -1,332 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&width=900" width="100%">
-
-```
- ██████╗ ██████╗ ██████╗ ██╗   ██╗██████╗ ██████╗ ██████╗ 
-██╔════╝██╔═══██╗██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗
-██║     ██║   ██║██║  ██║██║   ██║██████╔╝██████╔╝██████╔╝
-██║     ██║   ██║██║  ██║██║   ██║██╔══██╗██╔══██╗██╔══██╗
-╚██████╗╚██████╔╝██████╔╝╚██████╔╝██║  ██║██║  ██║██║  ██║
- ╚═════╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
-<code>&nbsp;WEB&nbsp;DEVELOPER&nbsp;·&nbsp;DIGITAL&nbsp;BUILDER&nbsp;·&nbsp;EST.&nbsp;199X&nbsp;</code>
-
-</div>
-
-<br>
-
-```
-┌─[ SYSTEM.LOG ]───────────────────────────────────────────┐
-│                                                           │
-│  > booting codurrr.exe ...................... [ OK ]     │
-│  > loading design sense .................... [ OK ]     │
-│  > loading clean code module ................ [ OK ]     │
-│  > checking for bugs ................... [ NONE FOUND ]  │
-│  > status: READY TO SHIP                                 │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-<div align="center">
-
-### ▸ STACK.SYS
-
-<img src="https://skillicons.dev/icons?i=js,php,mysql,html,css,bootstrap,jquery,git&theme=dark">
-
-</div>
-
-<br>
-
-```
-┌─[ SPECS ]─────────────────┬─[ FOCUS ]──────────────────┐
-│                           │                            │
-│  LANG    : PHP · JS       │  ▸ Business Websites       │
-│  DB      : MySQL          │  ▸ SaaS Dashboards         │
-│  STYLE   : Bootstrap      │  ▸ Admin Panels            │
-│  MOTION  : GSAP           │  ▸ CRM / ERP Systems       │
-│  VCS     : Git            │  ▸ REST API Integrations   │
-│                           │                            │
-└───────────────────────────┴────────────────────────────┘
-```
-
-<br>
-
-<div align="center">
-
-### ▸ CONNECT.SYS
-
-<a href="https://codurrr.in"><img src="https://img.shields.io/badge/WEBSITE-codurrr.in-16A34A?style=for-the-badge&labelColor=0D0D0D&logo=googlechrome&logoColor=16A34A"></a>
-<a href="#"><img src="https://img.shields.io/badge/GITHUB-follow-16A34A?style=for-the-badge&labelColor=0D0D0D&logo=github&logoColor=16A34A"></a>
-
-<br><br>
-
-```
-A:\> DIR CODURRR
-
-  [ DESIGN ]  →  [ BUILD ]  →  [ REFINE ]  →  [ SHIP ]
-
-C:\> _
-```
-
-<br>
-
-<sub><code>© 199X–∞ CODURRR · BEST VIEWED WITH A FAST CONNECTION</code></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&width=900" width="100%">
-
-</div><div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&width=900" width="100%">
-
-```
- ██████╗ ██████╗ ██████╗ ██╗   ██╗██████╗ ██████╗ ██████╗ 
-██╔════╝██╔═══██╗██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗
-██║     ██║   ██║██║  ██║██║   ██║██████╔╝██████╔╝██████╔╝
-██║     ██║   ██║██║  ██║██║   ██║██╔══██╗██╔══██╗██╔══██╗
-╚██████╗╚██████╔╝██████╔╝╚██████╔╝██║  ██║██║  ██║██║  ██║
- ╚═════╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
-<code>&nbsp;WEB&nbsp;DEVELOPER&nbsp;·&nbsp;DIGITAL&nbsp;BUILDER&nbsp;·&nbsp;EST.&nbsp;199X&nbsp;</code>
-
-</div>
-
-<br>
-
-```
-┌─[ SYSTEM.LOG ]───────────────────────────────────────────┐
-│                                                           │
-│  > booting codurrr.exe ...................... [ OK ]     │
-│  > loading design sense .................... [ OK ]     │
-│  > loading clean code module ................ [ OK ]     │
-│  > checking for bugs ................... [ NONE FOUND ]  │
-│  > status: READY TO SHIP                                 │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-<div align="center">
-
-### ▸ STACK.SYS
-
-<img src="https://skillicons.dev/icons?i=js,php,mysql,html,css,bootstrap,jquery,git&theme=dark">
-
-</div>
-
-<br>
-
-```
-┌─[ SPECS ]─────────────────┬─[ FOCUS ]──────────────────┐
-│                           │                            │
-│  LANG    : PHP · JS       │  ▸ Business Websites       │
-│  DB      : MySQL          │  ▸ SaaS Dashboards         │
-│  STYLE   : Bootstrap      │  ▸ Admin Panels            │
-│  MOTION  : GSAP           │  ▸ CRM / ERP Systems       │
-│  VCS     : Git            │  ▸ REST API Integrations   │
-│                           │                            │
-└───────────────────────────┴────────────────────────────┘
-```
-
-<br>
-
-<div align="center">
-
-### ▸ CONNECT.SYS
-
-<a href="https://codurrr.in"><img src="https://img.shields.io/badge/WEBSITE-codurrr.in-16A34A?style=for-the-badge&labelColor=0D0D0D&logo=googlechrome&logoColor=16A34A"></a>
-<a href="#"><img src="https://img.shields.io/badge/GITHUB-follow-16A34A?style=for-the-badge&labelColor=0D0D0D&logo=github&logoColor=16A34A"></a>
-
-<br><br>
-
-```
-A:\> DIR CODURRR
-
-  [ DESIGN ]  →  [ BUILD ]  →  [ REFINE ]  →  [ SHIP ]
-
-C:\> _
-```
-
-<br>
-
-<sub><code>© 199X–∞ CODURRR · BEST VIEWED WITH A FAST CONNECTION</code></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&width=900" width="100%">
-
-</div><div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39FF88,100:000000&height=2&width=1000" width="100%">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=52&duration=2800&pause=1200&color=39FF88&center=true&vCenter=true&width=650&height=80&lines=CODURRR" />
-
-<code>WEB DEVELOPER · SYSTEMS BUILDER · DIGITAL CRAFTSMAN</code>
-
-<br><br>
-
-<table>
-<tr>
-<td>
-
-```text
-┌─ codurrr.exe ────────────────────────────────────────────┐
-│                                                          │
-│  [ DESIGN ] ──→ [ BUILD ] ──→ [ REFINE ] ──→ [ SHIP ]  │
-│                                                          │
-│  C:\> building cool stuff_                               │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│              [ IMAGE NOT FOUND ]             │
-│                                              │
-│                  ░░░░░░░                     │
-│                  ░ FILE ░                    │
-│                  ░░░░░░░                     │
-│                                              │
-│                  LOADING_                    │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-───────────────────────── // ABOUT ME ─────────────────────────
-```
-
-</div>
-
-```text
-> I build clean, functional and scalable web applications.
->
-> Focus:
-> ├── interfaces that feel good to use
-> ├── systems that actually solve problems
-> ├── clean architecture
-> └── details that make the difference
-```
-
-<br>
-
-<div align="center">
-
-```text
-────────────────────────── // STACK ──────────────────────────
-```
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=js,react,tailwind,php,mysql,bootstrap,git&theme=dark" />
-
-<br><br>
-
-<code>JAVASCRIPT · REACT · TAILWIND · PHP · MYSQL · BOOTSTRAP · GIT</code>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-─────────────────────── // SYSTEM STATUS ──────────────────────
-```
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-```text
-codurrr@github
-────────────────
-Repos       →  online
-Projects    →  active
-Commits     →  shipping
-Ideas       →  unlimited
-```
-
-</td>
-<td width="50%">
-
-```text
-system.status
-────────────────
-Focus       →  Building
-Mode        →  Shipping
-Coffee      →  99%
-Sleep       →  1%
-Status      →  ONLINE
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codurrr&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF88&text_color=8B96A8&icon_color=39FF88&rank_icon=github" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codurrr&layout=compact&hide_border=true&bg_color=000000&title_color=39FF88&text_color=8B96A8" height="165">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codurrr&hide_border=true&background=000000&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=8B96A8&dates=555F70" width="700">
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-────────────────────── // LET'S CONNECT ───────────────────────
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CODURRR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18"/>
 
 <br>
 
 <a href="https://codurrr.in">
-<img src="https://img.shields.io/badge/codurrr.in-000000?style=for-the-badge&logo=googlechrome&logoColor=39FF88&labelColor=000000&color=39FF88">
-</a>
-
-<a href="https://github.com/codurrr">
-<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=39FF88&labelColor=000000&color=39FF88">
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&pause=1500&color=6366F1&center=true&vCenter=true&width=520&lines=Building+clean%2C+scalable+web+apps;PHP+%7C+MySQL+%7C+JavaScript+%7C+Bootstrap;Dashboards+%C2%B7+CRM+%C2%B7+ERP+%C2%B7+SaaS;Let's+build+something+solid." />
 </a>
 
 <br><br>
 
-```text
-C:\> Thanks for visiting!
-C:\> Have a great day ahead :)
-```
+<img src="https://skillicons.dev/icons?i=js,php,mysql,html,css,bootstrap,jquery,git,github&theme=dark&perline=9"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/WEBSITE-codurrr.in-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117"/>
+<a href="#"><img src="https://img.shields.io/badge/GITHUB-follow-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=850"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39FF88,100:000000&height=2&width=1000" width="100%">
+### 📊 Activity
 
-<sub>199X ── ∞</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff" width="850"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
