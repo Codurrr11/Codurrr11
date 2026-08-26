@@ -1,5 +1,85 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&width=900" width="100%">
+
+```
+ ██████╗ ██████╗ ██████╗ ██╗   ██╗██████╗ ██████╗ ██████╗ 
+██╔════╝██╔═══██╗██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗
+██║     ██║   ██║██║  ██║██║   ██║██████╔╝██████╔╝██████╔╝
+██║     ██║   ██║██║  ██║██║   ██║██╔══██╗██╔══██╗██╔══██╗
+╚██████╗╚██████╔╝██████╔╝╚██████╔╝██║  ██║██║  ██║██║  ██║
+ ╚═════╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+<code>&nbsp;WEB&nbsp;DEVELOPER&nbsp;·&nbsp;DIGITAL&nbsp;BUILDER&nbsp;·&nbsp;EST.&nbsp;199X&nbsp;</code>
+
+</div>
+
+<br>
+
+```
+┌─[ SYSTEM.LOG ]───────────────────────────────────────────┐
+│                                                           │
+│  > booting codurrr.exe ...................... [ OK ]     │
+│  > loading design sense .................... [ OK ]     │
+│  > loading clean code module ................ [ OK ]     │
+│  > checking for bugs ................... [ NONE FOUND ]  │
+│  > status: READY TO SHIP                                 │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+<div align="center">
+
+### ▸ STACK.SYS
+
+<img src="https://skillicons.dev/icons?i=js,php,mysql,html,css,bootstrap,jquery,git&theme=dark">
+
+</div>
+
+<br>
+
+```
+┌─[ SPECS ]─────────────────┬─[ FOCUS ]──────────────────┐
+│                           │                            │
+│  LANG    : PHP · JS       │  ▸ Business Websites       │
+│  DB      : MySQL          │  ▸ SaaS Dashboards         │
+│  STYLE   : Bootstrap      │  ▸ Admin Panels            │
+│  MOTION  : GSAP           │  ▸ CRM / ERP Systems       │
+│  VCS     : Git            │  ▸ REST API Integrations   │
+│                           │                            │
+└───────────────────────────┴────────────────────────────┘
+```
+
+<br>
+
+<div align="center">
+
+### ▸ CONNECT.SYS
+
+<a href="https://codurrr.in"><img src="https://img.shields.io/badge/WEBSITE-codurrr.in-16A34A?style=for-the-badge&labelColor=0D0D0D&logo=googlechrome&logoColor=16A34A"></a>
+<a href="#"><img src="https://img.shields.io/badge/GITHUB-follow-16A34A?style=for-the-badge&labelColor=0D0D0D&logo=github&logoColor=16A34A"></a>
+
+<br><br>
+
+```
+A:\> DIR CODURRR
+
+  [ DESIGN ]  →  [ BUILD ]  →  [ REFINE ]  →  [ SHIP ]
+
+C:\> _
+```
+
+<br>
+
+<sub><code>© 199X–∞ CODURRR · BEST VIEWED WITH A FAST CONNECTION</code></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:0D0D0D&height=2&width=900" width="100%">
+
+</div><div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39FF88,100:000000&height=2&width=1000" width="100%">
 
 <br>
