@@ -1,4 +1,4 @@
-<img src="assets/header.svg" alt="A bit about me" width="100%">
+<img src="header.svg" alt="A bit about me" width="100%">
 
 <br>
 
@@ -8,22 +8,20 @@ These days, I enjoy figuring out **what a business actually needs, why it matter
 
 <br>
 
-<img src="assets/about.svg" alt="Amit Bhunia — Full-Stack Developer, Kota, Rajasthan" width="100%">
+<img src="about.svg" alt="Amit Bhunia — Full-Stack Developer, Kota, Rajasthan" width="100%">
 
 <br>
 
-<img src="assets/work.svg" alt="Selected work" width="100%">
+<img src="work.svg" alt="Selected work" width="100%">
 
-| | |
-|---|---|
-| **[project-one](https://github.com/YOUR_USERNAME/project-one)** | One line on what it is and why it matters. |
-| **[project-two](https://github.com/YOUR_USERNAME/project-two)** | One line on what it is and why it matters. |
-| **[project-three](https://github.com/YOUR_USERNAME/project-three)** | One line on what it is and why it matters. |
+- **[project-one](https://github.com/Codurrr11/project-one)**: One line on what it is and why it matters.
+- **[project-two](https://github.com/Codurrr11/project-two)**: One line on what it is and why it matters.
+- **[project-three](https://github.com/Codurrr11/project-three)**: One line on what it is and why it matters.
 
 <br>
 
-<img src="assets/connect.svg" alt="Let's connect" width="100%">
+<img src="connect.svg" alt="Let's connect" width="100%">
 
 [Portfolio](https://yourportfolio.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) &nbsp;·&nbsp; [Email](mailto:thecode2258@gmail.com)
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
