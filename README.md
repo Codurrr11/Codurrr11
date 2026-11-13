@@ -1,4 +1,4 @@
-<img src="assets/header.svg" alt="A bit about me" width="100%">
+<img src="header.svg" alt="A bit about me" width="100%">
 
 <br>
 
@@ -8,8 +8,8 @@ These days, I enjoy figuring out **what a business actually needs, why it matter
 
 <br>
 
-<img src="assets/about.svg" alt="Amit Bhunia — Full-Stack Developer, Kota, Rajasthan" width="100%">
+<img src="about.svg" alt="Amit Bhunia — Full-Stack Developer, Kota, Rajasthan" width="100%">
 
 <br>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
