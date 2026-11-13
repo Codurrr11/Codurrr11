@@ -1,35 +1,18 @@
-<div align="center">
-
-<img src="assets/hero.svg" alt="Your Name — Software engineer" width="100%">
+<img src="assets/header.svg" alt="A bit about me" width="100%">
 
 <br>
 
-**Systems · Interfaces · Craft**
+Namaste! I'm Amit Bhunia, a **developer who works on both sides of the screen.** I started out on the front end, mostly chasing clean interfaces, until I realized the real work was making the systems behind them hold up.
 
-<sub>[Portfolio](https://yourwebsite.com) &nbsp;/&nbsp; [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) &nbsp;/&nbsp; [X](https://x.com/YOUR_USERNAME) &nbsp;/&nbsp; [Email](mailto:you@example.com)</sub>
+These days, I enjoy figuring out **what a business actually needs, why it matters, and how to make it simple.** From untangling messy workflows to fussing over the last few pixels, I still care as much about how something feels as how it works.
 
-</div>
+<br>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="assets/about.svg" alt="Amit Bhunia — Full-Stack Developer, Kota, Rajasthan" width="100%">
 
-### 02 / About
+<br>
 
-I build software that feels inevitable: fast, quiet, and precise.
-My work sits between low-level systems and the interfaces people actually touch.
-
-- Currently building **Project Name** — one sentence on what it does
-- Exploring **WebGPU**, **realtime graphics**, and **compilers**
-- Open to collaboration on **developer tools** and **interactive web**
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-### 03 / Stack
-
-`TypeScript` &nbsp; `Rust` &nbsp; `Go` &nbsp; `Python` &nbsp; `React` &nbsp; `Three.js` &nbsp; `GLSL` &nbsp; `PostgreSQL` &nbsp; `Docker`
-
-<img src="assets/divider.svg" width="100%" alt="">
-
-### 04 / Selected work
+<img src="assets/work.svg" alt="Selected work" width="100%">
 
 | | |
 |---|---|
@@ -37,13 +20,10 @@ My work sits between low-level systems and the interfaces people actually touch.
 | **[project-two](https://github.com/YOUR_USERNAME/project-two)** | One line on what it is and why it matters. |
 | **[project-three](https://github.com/YOUR_USERNAME/project-three)** | One line on what it is and why it matters. |
 
+<br>
+
+<img src="assets/connect.svg" alt="Let's connect" width="100%">
+
+[Portfolio](https://yourportfolio.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) &nbsp;·&nbsp; [Email](mailto:thecode2258@gmail.com)
+
 <img src="assets/divider.svg" width="100%" alt="">
-
-### 05 / Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=false&hide_border=true&bg_color=00000000&title_color=6ee7ff&text_color=8a94a6&hide_title=false&hide=contribs&count_private=true">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&hide_border=true&bg_color=00000000&title_color=0a7a8f&text_color=444c5a&count_private=true">
-</picture>
-
-<img src="assets/footer.svg" width="100%" alt="">
