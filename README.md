@@ -12,16 +12,4 @@ These days, I enjoy figuring out **what a business actually needs, why it matter
 
 <br>
 
-<img src="work.svg" alt="Selected work" width="100%">
-
-- **[project-one](https://github.com/Codurrr11/project-one)**: One line on what it is and why it matters.
-- **[project-two](https://github.com/Codurrr11/project-two)**: One line on what it is and why it matters.
-- **[project-three](https://github.com/Codurrr11/project-three)**: One line on what it is and why it matters.
-
-<br>
-
-<img src="connect.svg" alt="Let's connect" width="100%">
-
-[Portfolio](https://yourportfolio.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) &nbsp;·&nbsp; [Email](mailto:thecode2258@gmail.com)
-
 <img src="divider.svg" width="100%" alt="">
